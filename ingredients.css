@@ -1,5 +1,5 @@
 .bun-top {
-  height: 70px;
+  height: 80px;
   width: 60%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
@@ -65,3 +65,18 @@
   background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
+
+.lettuce {
+  height: 25px;
+  width: 55%;
+  background-color: #4edf32;
+  border-radius: 15px 15px 20px 20px;
+
+}
+
+.bacon { 
+  height: 15px;
+  width: 70%;
+  background-color: #723528;
+  border-radius: 10px 10px 15px 15px; 
+} 
